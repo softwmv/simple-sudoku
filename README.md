@@ -16,8 +16,8 @@ Follow these steps to get the game running on your local machine.
 
 1.  **Clone or Download the Project**
     ```
-    git clone https://github.com/donutsleepy/sudoku
-    cd sudoku
+    git clone https://github.com/donutsleepy/simple-sudoku
+    cd simple-sudoku
     ```
 
 2.  **Create a Virtual Environment (Recommended)**
