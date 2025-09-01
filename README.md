@@ -49,6 +49,6 @@ python game.py
 ```
 ## How to Play
 
-Simply select a number at the bottom and use it to fill in the cells.
+Simply select a number at the bottom and use it to fill in the cells. A red number indicates an incorrect entry, while a blue number indicates a correct one.
 
 <img width="1200" height="900" alt="Image" src="https://github.com/user-attachments/assets/76da6e3d-bb16-4fe7-b894-7d7960e7575f" />
