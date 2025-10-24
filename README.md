@@ -4,7 +4,9 @@ A classic Sudoku implementation in Python using Pygame. Features a clean interfa
 
 ## Installation & Setup
 
-Follow these steps to get the game running on your local machine.
+You can download the executable from the latest release [here](https://github.com/softwmv/simple-sudoku/releases/tag/v1.0.0).
+
+Or you can follow the steps below to get the game running on your local machine.
 
 ### Prerequisites
 
